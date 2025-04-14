@@ -77,4 +77,3 @@ We recommend doing these steps early on.
 
 You may consider downsampling the data to more rapidly prototype your model.
 If you do this, be careful that your downsampled data includes enough users from the validation set to test your model.
-
